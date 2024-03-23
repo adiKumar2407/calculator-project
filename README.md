@@ -5,7 +5,9 @@ This is the simple calculator web application built using HTML, CSS, JavaScript.
 # Features
 
 . Addition, subtraction, multiplication, and division operations supported.
+
 . Clear Button to reset the calculator.
+
 . Responsive design for use on various devices.
 
 # Screenshot
